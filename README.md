@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Data Engineering Mastery: From SQL Beginner to Production-Ready Engineer
 
 **A Comprehensive Learning Path with Real-World Projects**
@@ -257,3 +258,7 @@ After completing this course, you'll be prepared for:
 
 *Last Updated: October 2025*  
 *Version: 1.0*
+=======
+# data_engineer_learning_python_sql_path
+data_engineer_learning_python_sql_path
+>>>>>>> origin/main
