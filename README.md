@@ -5,11 +5,13 @@ A comprehensive learning path for aspiring data engineers, covering essential Py
 ## 📚 Table of Contents
 
 - [Overview](#overview)
+- [Getting Started](#getting-started)
 - [Learning Path](#learning-path)
 - [Prerequisites](#prerequisites)
 - [Repository Structure](#repository-structure)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Resources](#resources)
+- [FAQ](#faq)
 - [Contributing](#contributing)
 
 ## 🎯 Overview
@@ -19,6 +21,19 @@ This repository provides a structured learning path for data engineers, focusing
 - **SQL Databases**: Query writing, optimization, and database design
 - **Data Engineering Concepts**: ETL/ELT, data pipelines, and data warehousing
 - **Practical Projects**: Hands-on exercises and real-world scenarios
+
+## 🚀 Getting Started
+
+**New to programming or data engineering?** Start here:
+
+👉 **[GETTING STARTED GUIDE](GETTING_STARTED.md)** - Your roadmap to begin learning
+
+This guide includes:
+- Time commitments and study plans
+- Week 1 action plan
+- Software setup instructions
+- Daily study routines
+- Tips for success
 
 ## 🛣️ Learning Path
 
@@ -136,17 +151,27 @@ This repository provides a structured learning path for data engineers, focusing
    cd data_engineer_learning_python_sql_path
    ```
 
-2. **Follow the learning path sequentially**
+2. **Install dependencies** (when needed)
+   ```bash
+   # Create a virtual environment
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   
+   # Install required packages
+   pip install -r requirements.txt
+   ```
+
+3. **Follow the learning path sequentially**
    - Start with Phase 1 and progress through each phase
    - Complete exercises before moving to the next section
    - Work on projects to apply your knowledge
 
-3. **Practice regularly**
+4. **Practice regularly**
    - Code daily, even if just for 30 minutes
    - Review concepts regularly
    - Build your own projects alongside the provided ones
 
-4. **Track your progress**
+5. **Track your progress**
    - Check off completed topics in the learning path
    - Keep a learning journal
    - Share your progress and projects
@@ -169,6 +194,15 @@ This repository provides a structured learning path for data engineers, focusing
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 
+## ❓ FAQ
+
+Have questions? Check out our **[Frequently Asked Questions](FAQ.md)** covering:
+- Getting started
+- Technical setup
+- Learning strategies
+- Career advice
+- Troubleshooting
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute:
@@ -179,6 +213,8 @@ Contributions are welcome! If you'd like to contribute:
 4. Commit your changes (`git commit -am 'Add new feature'`)
 5. Push to the branch (`git push origin feature/improvement`)
 6. Create a Pull Request
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📝 License
 

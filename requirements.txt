@@ -1,0 +1,34 @@
+# Python Data Engineering Learning Path Requirements
+
+# Core data manipulation libraries
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Database connectivity
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# File format support
+openpyxl>=3.1.0  # Excel files
+pyarrow>=12.0.0  # Parquet files
+
+# API and web
+requests>=2.31.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Data validation
+great-expectations>=0.17.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Optional: For advanced examples
+# apache-airflow>=2.7.0  # Uncomment if learning Airflow
+# pyspark>=3.4.0  # Uncomment if learning Spark
